@@ -1,0 +1,5 @@
+1)download the yelp data set from www.yelp.com
+
+2)perform the data cleaning useing the data cleaning folder 
+
+3)excecute the naives bayes and colaborative flitering using knn from the recommendation system folder 
